@@ -965,7 +965,7 @@ body {
         width: 30px;
         height: 20px;
         position: absolute;
-        top: 7px;
+        top: 6px;
         left: 30px;
         background-color: var(--red);
         clip-path: polygon(
